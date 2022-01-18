@@ -1,0 +1,15 @@
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\MenuNetflix.exe
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\MenuNetflix.deps.json
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\MenuNetflix.runtimeconfig.json
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\MenuNetflix.dll
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\ref\MenuNetflix.dll
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\bin\Debug\net6.0\MenuNetflix.pdb
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.csproj.AssemblyReference.cache
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.AssemblyInfoInputs.cache
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.AssemblyInfo.cs
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.csproj.CoreCompileInputs.cache
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.dll
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\ref\MenuNetflix.dll
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.pdb
+D:\Users\Francis\Documents\DIO\MenuNetflix\MenuNetflix\obj\Debug\net6.0\MenuNetflix.genruntimeconfig.cache
